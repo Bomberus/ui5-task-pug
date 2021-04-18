@@ -1,0 +1,7 @@
+specVersion: "2.3"
+metadata:
+  name: ui5-task-pug
+kind: extension
+type: task
+task:
+  path: lib/ui5-task-pug.js
